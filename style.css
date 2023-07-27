@@ -4,6 +4,7 @@
     height: 790px;
     width: 100%;
     display: flex;
+    border-bottom-left-radius: 20%;
 }
 .middle-div-text {
     padding-top: 290px;
@@ -233,6 +234,7 @@ width: 527px;
     display: flex;
     flex-direction: column;
     align-items: center;
+    border-top-left-radius: 20%;
 
 }
 .contact-me-heading{
