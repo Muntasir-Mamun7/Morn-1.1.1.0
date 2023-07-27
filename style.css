@@ -51,7 +51,7 @@
 .content-section {
     background-color: 
     #D9D9D9;
-    height: 1800px;
+    height: 1900px;
     width: 100%;
 }
 .all-content{
@@ -236,7 +236,8 @@ width: 527px;
 
 }
 .div-contact-me {
-    background-color: #F6F6F6;
+    background-color:
+    #F6F6F6;
 }
 .contact-us-section {
     height: 1063px;
@@ -253,6 +254,8 @@ width: 527px;
     font-size: 40px;
     color: white;
     text-align: center;
+    margin-top: 50px;
+    margin-bottom: 40px;
 }
 .contact-me-text {
 
