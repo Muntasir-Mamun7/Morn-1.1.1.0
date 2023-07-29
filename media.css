@@ -1,0 +1,502 @@
+@media screen and (max-width:576px) {
+    .left-section {
+        padding-top: 20px;
+
+        }
+        .logo {
+            font-size: 30px;
+            color: white;
+            padding-left: 20px;
+            cursor: pointer;
+        
+        
+        }
+        .logo:hover {
+            color: rgb(0, 0, 0);
+        }
+        .right-section {
+        padding-top: 20px;
+        padding-right: 100px;
+        
+        }
+        ul {
+            list-style: none;
+            display: flex;
+        }
+        a {text-decoration: none;
+            color: white;
+           font-size: 20px;
+        }
+        a:hover {
+            color: black;
+        }
+        
+        .header {
+            background-color:  #069696;
+            padding-top: 0px;
+            padding-bottom: 30px;
+            box-shadow: 0px 10px 10px rgba(10, 9, 9, 0.5);
+            height: 50px;
+    width: 485px;
+            position: fixed;
+            z-index: 1;
+            display: flex;
+            justify-content: space-between;
+            
+        }
+    
+    
+    
+    
+    
+        .div-middle {
+            background-color: #D9D9D9;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        
+        }
+        .middle-section {
+            background-color: 
+            #069696;
+            height: 790px;
+            width: 576px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            border-bottom-left-radius: 50%;
+            
+        }
+        .middle-all-content {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            padding-left: 30px;
+        }
+        .middle-div-text {
+            padding-top: 100px;
+            padding-left: 200px;
+            
+        }
+        .middle-div-image {
+            padding-left: 160px;
+            padding-top: 10px;
+        }
+        .I-am-a-web-dev {
+            font-family: 'Faster One', cursive;
+            font-size: 50px;
+            color: white;
+            width: 402px;
+            padding-left: 14px;
+        }
+        .web-dev-text {
+            font-family: 'ABeeZee', sans-serif;
+            width: 400px;
+            font-size: 18px;
+            height: 120px;
+            margin-top: 10px;
+            color: white;
+        }
+        .lets-connect {
+            font-family: 'Abril Fatface', cursive;
+            font-size: 20px;
+            margin-top: 30px;
+            color: white;
+        }
+        .social-icons {
+            height: 30px ;
+            margin-right: 10px;
+            margin-top: 10px;
+            cursor: pointer;
+        
+        }
+    
+
+        .content-section {
+            background-color: 
+            #D9D9D9;
+            height: 2000px;
+            width: 485px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .all-content{
+            padding-top: 0px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: auto;
+        }
+        .content {
+            display: flex;
+            width: 460px;
+            height: 438px;
+            border-radius: 30px;
+            background-color: #EBE7E7;
+            margin-top: 100px;
+            margin-bottom: 50px;
+        }
+        .content-2 {
+            display: flex;
+            width: auto;
+            height: 438px;
+            border-radius: 30px;
+            background-color: #EBE7E7;
+            margin-top: 100px;
+            margin-bottom: 50px;
+        
+        }
+        .content-image {
+            width: 410px;
+            height: 351px;
+           margin-top: 42px;
+           border-radius:20px;
+           padding-left: 5px;
+            
+            background-color: #D9D9D9;
+            cursor: pointer;
+            transition: .2s;
+            opacity: .5;
+            
+        }
+        .content-image:hover {
+            opacity: 1;
+        }
+        .content-image-2 {
+            width: 410px;
+            height: 351px;
+           margin-top: 42px;
+           border-radius:20px;
+           padding-left: 5px;
+            
+            background-color: #D9D9D9;
+            cursor: pointer;
+            transition: .2s;
+            opacity: .5;
+        
+        }
+        .content-image-2:hover {
+            opacity: 1;
+        }
+        .content-text {
+        margin-left: 30px;
+        margin-top: 42px;
+        
+        }
+        .content-text-2 {
+            margin-right: 0px;
+        margin-top: 42px;
+        padding-left: 36px;
+        
+        
+        }
+        .website-heading{
+            font-family: 'Abril Fatface', cursive;
+        font-size: 32px;
+        width: 185px;
+        margin-bottom: 20px;
+        cursor: pointer;
+        
+        }
+        .website-heading-2{
+            font-family: 'Abril Fatface', cursive;
+        font-size: 32px;
+        width: 185px;
+        margin-bottom: 20px;
+        
+        }
+        .website-text {
+            font-family: 'Abel', sans-serif;
+        font-size: 18px;
+        width: 415px;
+        }
+        .website-text-2 {
+            font-family: 'Abel', sans-serif;
+        font-size: 18px;
+        width: 415px;
+        }
+        .html-button, .css-button {
+            background-color:
+            #069696;
+            height: 32px;
+            width: 108px;
+            border: none;
+            border-radius: 10px;
+            font-size: 24px;
+            font-family:'Abel', sans-serif;
+            color: white;
+            margin-top: 10px;
+            margin-right: 20px;
+            cursor: pointer;
+            transition: .2s;
+        
+        
+        }
+        .html-button:hover, .css-button:hover {
+            border-width: 1px;
+            border-color: #069696;
+            border-style: solid;
+            cursor: pointer;
+            background-color: #D9D9D9;
+            color: #069696;
+        }
+        .see-more-projects-button{
+            font-family:'Abel', sans-serif;
+            font-size: 20px;
+            background-color: 
+            #069696;
+            color: white;
+            height: 40px;
+            width: 248px;
+            border-radius:15px;
+            border: none;
+            cursor: pointer;
+            transition: .2s;
+            
+        }
+        .see-more-projects-button:hover {
+            border-width: 1px;
+            border-color: #069696;
+            border-style: solid;
+            cursor: pointer;
+            background-color: #D9D9D9;
+            color: #069696;
+        }
+
+
+    
+.div-about-me {
+    background-color: 
+    #D9D9D9;
+    width: 485px;
+
+}
+.about-me-section {
+    background-color: #F6F6F6;
+    width: auto;
+    height: 1036px;
+    border-top-right-radius: 200px;
+    padding-left: 500px;
+
+}
+.div-left-right-content-about-me{
+    display: flex;
+width: auto;
+
+
+}
+.about-me-all-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: auto;
+}
+.about-myself-text {
+    font-family: 'Abril Fatface', cursive;
+    font-size: 28px;
+    margin-bottom: 30px;
+}
+.about-text{
+    font-family:'Abel', sans-serif;
+    font-size: 20px;
+    width: 415px;
+
+}
+.lets-connect-about-us{
+    font-family: 'Abril Fatface', cursive;
+    font-size: 28px;
+    margin-top: 60px;
+    color: #000000;
+
+}
+.get-my-resume-button{
+    font-family:'Abel', sans-serif;
+    color: #069696;
+    font-size: 22px;
+    height: 40px;
+    width: 167px;
+    border-radius:20px ;
+    border-color: #069696 ;
+    border-width: 1px;
+    border-style: solid;
+    margin-top: 40px;
+    cursor: pointer;
+    transition: .2s;
+    margin-left: 115px;
+
+}
+.get-my-resume-button:hover {
+    background-color:#069696 ;
+    color:white ;
+}
+.left-section-about-me{
+    padding-top: 90px;
+padding-right: 500px;
+}
+.right-section-about-me {
+    margin-left: 0px;
+    margin-top: 90px;
+}
+.text-with-drop-menu {
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+
+}
+.about-right-section-menu-text{
+    font-size: 20px;
+    font-family:'Abel', sans-serif;
+    margin-top: 15px;
+    
+
+}
+.skill-icons {
+    margin-right: 20px;
+    margin-top: 20px;
+    cursor: pointer;
+    
+
+}
+
+.div-contact-me {
+    background-color:
+    #F6F6F6;
+}
+.contact-us-section {
+    height: 1063px;
+    background-color: #069696;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-top-left-radius: 200px;
+    padding-left: 500px;
+
+}
+.contact-me-heading{
+    font-family: 'Abril Fatface', cursive;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    padding-right: 500px;
+
+}
+.contact-me-text {
+
+    font-family:'Abel', sans-serif;
+    font-size: 20px;
+    color: white;
+    height: auto;
+    text-align: justify;
+    padding-right: 480px;
+    width: 415px;
+
+
+   
+
+}
+.contact-us-form {
+    display: flex;
+    flex-direction: column;
+
+}
+input {
+    height: 87px;
+    width: 415px;
+    border-radius: 20px;
+    border: none;
+    margin-top: 40px;
+    margin-right:520px ;
+
+
+}
+.input-3{
+
+width: 415px;
+padding-bottom: 109px;}
+::placeholder {
+    font-family:'Abel', sans-serif;
+    font-size: 20px;
+    padding-left: 15px;
+
+color: #000000;
+
+}
+.Get-in-touch-button{
+height: 60px;
+width: 204px;
+border-radius: 20px;
+border: none;
+margin-top: 60px;
+font-size: 28px;
+font-family:'Abel', sans-serif;
+transition: .2s;
+margin-right: 480px;
+
+
+}
+.Get-in-touch-button:hover {
+
+    border-width: 1px;
+    border-color: white;
+    border-style: solid;
+    cursor: pointer;
+    background-color: #069696;
+    color: white;
+
+}
+    
+    
+    .middle-all-content {
+      display: block;
+    }
+    .middle-section {
+        height: 100%;
+        max-width: fit-content;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .content-section {
+        height: 100%;
+        padding-bottom: 50px;
+
+    }
+    .content {
+        display: block;
+        height: 100%;
+        padding-bottom: 50px;
+      }
+    .content-2 {
+        display: block;
+        height: 100%;
+        padding-bottom: 50px;
+
+      }
+      .content-image {
+        margin-left: 22px;
+        margin-right: 22px;
+      }
+      .content-image-2 {
+        margin-left: 22px;
+        margin-right: 22px;
+      }
+      .div-left-right-content-about-me {
+        display: block;
+        height: 100%;
+        padding-bottom: 100px;
+      }
+      .about-me-all-content {
+        height: 100%;
+      }
+      .about-me-section {
+        height: 100%;
+      }
+      
+
+    }
+
+    
